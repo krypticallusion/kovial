@@ -9,7 +9,6 @@
 
 <br/>
 
-
 ## Install
 
 ```fish
@@ -19,25 +18,21 @@ $ omf install kovial
 
 ## Features
 
-* Lorem ipsum dolor sit amet.
-* Consectetur adipisicing elit.
+* __jovial with a k__
 
 
 ## Screenshot
 
 <p align="center">
-<img src="{{SCREENSHOT_URL}}">
+<img src="https://user-images.githubusercontent.com/28943200/143537236-36de1ae6-dca1-454a-93e0-d06dfb0cff3c.png">
 </p>
 
 
 # License
 
-[MIT][mit] © [krypticallusion][author] et [al][contributors]
-
+[MIT][mit] © [krypticallusion][author]
 
 [mit]:            https://opensource.org/licenses/MIT
-[author]:         https://github.com/{{USER}}
-[contributors]:   https://github.com/{{USER}}/theme-kovial/graphs/contributors
+[author]:         https://github.com/krypticallusion
 [omf-link]:       https://www.github.com/oh-my-fish/oh-my-fish
-
 [license-badge]:  https://img.shields.io/badge/license-MIT-007EC7.svg?style=flat-square
